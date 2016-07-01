@@ -1,0 +1,30 @@
+body{
+	font-size: 12px;
+}
+#contenedor {
+	position: relative;
+}
+#for {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	margin: auto;
+}
+.textsize{
+	font-size: 14px;
+}
+
+.btnxyz {
+    cursor: none;
+    background-image: none;
+    opacity: 0.65;
+    filter: alpha(opacity=65);
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    color: #333;
+    background-color: #E6E6E6;
+}
